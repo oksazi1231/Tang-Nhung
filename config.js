@@ -16,3 +16,4 @@ const CONFIG = {
     messDesc: 'Bé có đồng ý yêu anh hết chặng đường còn lại không',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/hongtongkimkim233/' //https://www.facebook.com/hongtongkimkim233/
+}
